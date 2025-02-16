@@ -1,0 +1,26 @@
+Root Cause Analysis - Khanjan Desai PM Razor Pay 1
+Root Cause Analysis - Khanjan
+Desai PM Razor Pay
+Flipkart Product Manager Mock Interview: Root Cause Analysis (Razorpay PM)
+Don't leave your product management career to chance. Sign up for Exponent's PM
+interview course today: https://bit.ly/3jKaKB6Watch our mock Flipkart PM (pro...
+https://www.youtube.com/watch?v=DSV-vuvmIro&list=TLPQMTIwNzIwMjEgzgnCjEgj
+HQ&index=5
+Problem statement - 15%
+decline in shopping cart
+additions at flipkart
+Thorogh understanding of the question first ( what do you mean by cart additons)
+Understanding the platform (general or specific to app / website / ios or android )
+Understanding the metric measurement tool, checking working of given tool over a
+timespan
+Focus on product after ruling out external possibilities
+1. First focus on external factors (other competitors updates / product launches or
+announcements)
+2. Focus on demographic features if the affect is on any given customer segment,
+location, age group or other variable
+3. Macro economic impact (news / seassonal impact / pattern )
+4. Internal changes (Updates in mobile app / design changes / campaigns launched)
+a. zeroing in on the specific categories
+5. Overall user journey (glitches / bugs in the process)
+6. Out of control factors
+summarise along the way as you move through the process stages

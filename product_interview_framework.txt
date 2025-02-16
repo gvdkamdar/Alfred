@@ -1,0 +1,94 @@
+Product Interview Framework 1
+Product Interview Framework
+💡 Summarise or check in with the interviewer along the way as you move
+through the stages in any type of question
+Product vision and improvement type
+question
+Improve Whatsapp
+1. Question the question
+What is the purpose of doing this
+What outputs do we expect
+What are the metrics to measure the goals of the solution
+Monetisation
+Engagement
+Retention
+Acquisition
+Define target customer segments for the solution
+Age
+Financial capacity
+Users / Sellers / Buyers
+Regions ( City Tier 1 / 2 / 3 )
+2. Define the question
+What is the exact feature in question here
+what changes to the product are we looking at
+Product Interview Framework 2
+3. Find pain points
+What is the struggle being solved and where does it stem from
+4. Define the solution and product vision
+5. Define the UX journey and flow of the proposed solution
+6. Find the pitfalls and tradeoffs of the provided solution
+💡 Analyse the effectiveness of any suggestions you make or ideas you bring up.
+Great ideas with little to no effect or change won't be useful.
+RCA Questions
+Decrease in Revenue
+Thorogh understanding of the question first ( what do you mean by cart additons)
+External Factors and possibilities
+Understanding the metric measurement tool, checking working of given tool
+over a timespan and its accuracy
+Understanding the platform (general or specific to app / website / ios or android
+)
+How is the change spaced out over time (gradual / sudden)
+Macro economic impact (news / seasonal impact / pattern / disasters)
+Narrowing down the scope or focusing on demographic features if the affect is
+on any given customer segment, location, age group or other variable
+News from other external factors (other competitors updates / product launches
+or announcements)
+Product Interview Framework 3
+Internal Business or Product based factors that changed
+Product and feature - backend / frontend / updates / design changes
+Business - product campaigns / pricing / legal / marketing
+Users — suppliers / consumers / merchants
+User journey - glitches / bugs in the process
+Out of control factors
+💡 Always end each stage with a summary
+Estimation Frameworks - Top Down
+approach
+Men fairness cream market in India
+Starting with largest known metric
+Break down on region / age segment /
+Open End Product Visions Ideas
+WhatsApp calls and videos improvements. Creating calls naturally like phone dial
+pad to turn WhatsApp to a formal - informal way of communicating.
+Creating calendar invites for meetings scheduled and google meet integration.
+Chat quick reply prompts
+Introduce -> Generating payment requests via what’s app
+Product Interview Framework 4
+chrome tab layout
+STA vision
+Add categories to Youtube subscription section and group based on type of creator
+and content.
+Separate playlists into self made and bookmarked / made by others
+Instagram
+Introduce -> Processing payments within the app instead of opening a browser
+style window
+Bundling of products into categories to simulate a shopping experience
+Kill -> Storybook -> Coalition of multiple posts which is not discoverable when a
+user scrolls neither is it shareable
+💡 This is not an open ended question. Approach it like a problem statement.
+How is the product solving a problem, what are the users targeted, how are
+the features useful for the user and the company.
+Culture fit questions
+Thorough study of company website and product agenda. What is the message
+behind the product.
+Look for hints from the interviewer through the course of the interview.
+Focus on the catchphrases and language, by speaking to other company
+employees, throughout the interview process and other company resources.
+Try some small talk to understand the behaviour better and also share your own
+traits
+verbal and visual signals, feedback - nods, eye rolls
+Product Interview Framework 5
+Technical PM Interview
+How does google docs work
+System architecture knowledge is extremely important
+DSA, DBMS, OS, Network architecture and protocols fundamentals
+General structure
